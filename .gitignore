@@ -4,3 +4,4 @@
 
 /.vs
 /game engine/obj
+/game engine/bin/Debug/net8.0-windows

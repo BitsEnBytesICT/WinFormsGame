@@ -22,6 +22,8 @@ namespace game_engine
         {
             e.Graphics.DrawRectangle(Pens.Red, 10 + left, 10, 100, 100);
 
+            //e.Graphics.FillRectangle(Brushes.Blue, 200, 200, 400, 20);
+
             clock += 1;
         }
 
